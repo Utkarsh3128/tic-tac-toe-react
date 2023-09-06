@@ -1,6 +1,3 @@
-# Source code and tutorial
-[Tic Tac Toe](https://react.dev/learn/tutorial-tic-tac-toe#setup-for-the-tutorial)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
